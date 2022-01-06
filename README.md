@@ -1,3 +1,7 @@
+
+This project pulls blocks and transactions from the eth network and displays them for the user to browse.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
